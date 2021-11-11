@@ -1,0 +1,23 @@
+h1 {
+    color : red
+}
+body {
+    background-color: #ffe0a0;
+}
+.header{
+    background-color: coral;
+    display: flex;
+    justify-content: space-between;
+}
+p,h2{
+    text-align: center;
+}
+.grid{
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-evenly;
+}
+.footer{
+    display: flex;
+    flex-direction: column-reverse;
+}
